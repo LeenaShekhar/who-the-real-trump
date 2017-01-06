@@ -1,4 +1,4 @@
-# Who is the real Trump?
+# Will the real Slim Shady please stand up?
 
 Following the work done by [David Robinson] (http://varianceexplained.org/r/trump-tweets/) on Text analysis of Trump's tweets, I decided to give it a try as well using Python.
 
