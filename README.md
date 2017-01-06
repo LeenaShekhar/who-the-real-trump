@@ -12,3 +12,12 @@ Analysing tweets on the basis of:
 2. Tweet content- whether manual retweet was done by copy-pasting and adding quotes
 3. Tweet attachment- tweets with pictures and shared links
 4. Tone analysis using IBM Tone analyser.
+
+<img src="https://github.com/LeenaShekhar/who-the-real-trump/blob/master/tweet_timings.png" alt="Timings" width="500" height="500">
+
+<img src="https://github.com/LeenaShekhar/who-the-real-trump/blob/master/quotes.png" alt="QUotes usage" width="500" height="500">
+
+<img src="https://github.com/LeenaShekhar/who-the-real-trump/blob/master/attachment.png" alt="Attachment added" width="500" height="500">
+
+
+This work is in progess though as I am learning NLP so I would like to do Tweet content analysis in more detail.
